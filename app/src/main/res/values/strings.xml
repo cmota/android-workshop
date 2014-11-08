@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InstaEverything</string>
+
+    <!-- menu actions-->
+    <string name="menu_action_view">Change View</string>
+    <string name="menu_action_take_picture">Take Picture</string>
+    <string name="menu_action_gallery">Select from Gallery</string>
+    <string name="menu_action_about">About</string>
+
+    <!-- activities names -->
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+    <!-- image components -->
+    <string name="image_likes">Likes: 1%d</string>
+
+    <!-- Latitude, longitude format -->
+    <string name="latitude_longitude">%1$.8f, %2$.8f</string>
+</resources>
